@@ -16,7 +16,6 @@ Perfil Senior (60 años o más).
 Captura de una variable por método GET (ejemplo: `?saludo=Hola`) para mostrar un saludo en la parte superior.  
 Prevención básica de ataques XSS mediante el uso de `htmlspecialchars().
 
-
 # Tecnologías utilizadas
 - PHP 8.x
 - HTML5

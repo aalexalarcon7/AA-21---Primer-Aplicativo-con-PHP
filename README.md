@@ -21,3 +21,11 @@ Prevención básica de ataques XSS mediante el uso de `htmlspecialchars().
 - HTML5
 - CSS3
 - Servidor Apache (XAMPP)
+
+# Instalación y ejecución
+
+1. Instalar **XAMPP** o cualquier servidor con soporte PHP.
+2. Copiar el archivo `perfilador.php` en la carpeta:
+'http://localhost/perfilador.php'
+3. (Opcional) Agregar una variable por GET, por ejemplo:
+'http://localhost/perfilador.php?saludo=Hola%20profe'

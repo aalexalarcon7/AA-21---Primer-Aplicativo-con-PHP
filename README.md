@@ -1,11 +1,11 @@
 # AA-21---Primer-Aplicativo-con-PHP
 
-#Descripción
+# Descripción
 
 El **Perfilador PHP**  crea una tarjeta de presentación dinámica en base a la información ingresada en un formulario.  
 El usuario completa su nombre, edad y hobby, y el sistema genera una tarjeta personalizada con un mensaje adaptado a la edad.
 
-#Funcionalidades principales
+# Funcionalidades principales
 
 Formulario HTML con tres campos: **Nombre**, **Edad** y **Hobby**.  
 Recepción de datos mediante la **superglobal `$_POST`**.  
